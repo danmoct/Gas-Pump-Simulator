@@ -5,7 +5,7 @@ This was the final project for my Systems Architecture class while in Graduate S
 
 ## Installation:
 
-This program is a java executable and will run from within the java runtime environment.  Apart from the java runtime environment, it requires no additional installation.  
+This program is a java executable.  Apart from the java runtime environment, it requires no additional installation.  
 
 ## Usage:
 The project can be found in the "DIST" folder and is a java executable.  Using the command line, from the "DIST" directory, run the program by typing the following:
