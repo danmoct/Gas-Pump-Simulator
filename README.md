@@ -5,10 +5,10 @@ This was the final project for my Systems Architecture class while in Graduate S
 
 ## Installation:
 
-This program is a java executable.  Apart from the java runtime environment, it requires no additional installation.  
+This program is an executable jar.  Apart from the java runtime environment, it requires no additional installation.  
 
 ## Usage:
-The project can be found in the "DIST" folder and is a java executable.  Using the command line, from the "DIST" directory, run the program by typing the following:
+The project can be found in the "DIST" folder.  Using the command line, from the "DIST" directory, run the program by typing the following:
 ##### java -jar Project.jar
 
 The program will then give the user the option of choosing between two "Input Processors," two different gas pumps.  By following the MDA-EFSM diagram in the report (which can be found in the "DOC" folder), the user can simulate the use of a gas pump by appropriately choosing the correct steps from the operation menu.  An example of a successful sequence of selections in the simulation would be:
